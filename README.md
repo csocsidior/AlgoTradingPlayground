@@ -1,0 +1,2 @@
+# AlgoTradingPlayground
+Algorithmic trading playground 
