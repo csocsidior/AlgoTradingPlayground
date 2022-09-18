@@ -2,3 +2,4 @@ yahoo-finance==1.4.0
 numpy 
 matplotlib
 pandas
+spyder
