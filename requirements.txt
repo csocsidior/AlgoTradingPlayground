@@ -1,5 +1,5 @@
-yahoo-finance==1.4.0
+yfinance
 numpy 
 matplotlib
 pandas
-spyder
+#spyder
